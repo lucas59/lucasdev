@@ -141,6 +141,23 @@ button:hover,
 .button.button-linkedin:focus {
   filter: brightness(90%) }
 
+  /* LinkedIn */
+.button.button-gmail {
+  color: #e94134;
+  background-color:  #F2F2F2}
+.button.button-gmail:hover,
+.button.button-gmail:focus {
+  filter: brightness(90%) }
+
+  /* LinkedIn */
+.button.button-cv {
+  color: #FFFFFF;
+  background-color: #1DB954 }
+.button.button-cv:hover,
+.button.button-cv:focus {
+  filter: brightness(90%) }
+
+
 /* Medium */
 .button.button-medium {
   color: #000000;
