@@ -1,8 +1,16 @@
 body{
-    background-image: url("https://www.itl.cat/pngfile/big/157-1572191_hd-wallpapers-for-website-background-cool-background-image.jpg");
+    background: url("./Veep_v1.mp4");
     background-repeat: space;
     color: white;
     background-size: cover;
+}
+
+body video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
 }
 
 .main-picture{
