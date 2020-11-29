@@ -1,10 +1,3 @@
-body{
-    background: url("./Veep_v1.mp4");
-    background-repeat: space;
-    color: white;
-    background-size: cover;
-}
-
 body video{
     position: fixed;
     right: 0;
