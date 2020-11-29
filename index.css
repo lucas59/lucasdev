@@ -1,10 +1,25 @@
 body{
     background-image: url("https://www.itl.cat/pngfile/big/157-1572191_hd-wallpapers-for-website-background-cool-background-image.jpg");
-    background-repeat: no-repeat;
+    background-repeat: space;
     color: white;
+    background-size: cover;
 }
 
 .main-picture{
     width: 230px;
     border-radius: 100%;
+}
+
+.country{
+    font-size: 0.9rem;
+    justify-content: center;
+    align-items: baseline;
+    display: flex;
+    border-bottom: solid 0.1px lightgray;
+    width: 200px;
+    margin: 2rem auto;
+}
+
+.country img{
+    margin-right: 5px;
 }
