@@ -1,3 +1,36 @@
 body{
+<<<<<<< HEAD
     background-color: black;
+=======
+    color: white;
+    background-image: url('./images/1201180.jpg');
+    background-size: cover;
+}
+
+body video{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.main-picture{
+    width: 230px;
+    border-radius: 100%;
+}
+
+.country{
+    font-size: 0.9rem;
+    justify-content: center;
+    align-items: baseline;
+    display: flex;
+    border-bottom: solid 0.1px lightgray;
+    width: 200px;
+    margin: 2rem auto;
+}
+
+.country img{
+    margin-right: 5px;
+>>>>>>> cba0287ed00a3d69aa51ab5db44bbd44f558796c
 }
