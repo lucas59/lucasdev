@@ -1,7 +1,4 @@
 body{
-<<<<<<< HEAD
-    background-color: black;
-=======
     color: white;
     background-image: url('./images/1201180.jpg');
     background-size: cover;
@@ -32,5 +29,4 @@ body video{
 
 .country img{
     margin-right: 5px;
->>>>>>> cba0287ed00a3d69aa51ab5db44bbd44f558796c
 }
